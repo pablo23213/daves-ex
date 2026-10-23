@@ -1,0 +1,18 @@
+#BlueJ class context
+#Thu Oct 22 23:57:24 BRT 2026
+comment0.target=Triangulos
+comment1.target=Triangulos()
+comment10.target=double area()
+comment2.params=altura lado base
+comment2.target=Triangulos(double, double, double)
+comment3.params=altura
+comment3.target=void setAltura(double)
+comment4.target=double getAltura()
+comment5.params=area
+comment5.target=void setLado(double)
+comment6.target=double getLado()
+comment7.params=base
+comment7.target=void setBase(double)
+comment8.target=double getBase()
+comment9.target=double calculoPerimetro()
+numComments=11
